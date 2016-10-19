@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="students.xslt"?>
+<students xmlns="urn:students">
+  <student>
+    <name>Pesho</name>
+    <sex>Male</sex>
+    <birthdate>01.01.1991</birthdate>
+    <phone>0898123456</phone>
+    <email>no@email.com</email>
+    <course>2</course>
+    <specialty>Coding</specialty>
+    <facultynumber>123456</facultynumber>
+    <takenexams>
+      <exam>
+        <name>Calculus</name>
+        <tutor>Peshev</tutor>
+        <score>52</score>
+      </exam>
+    </takenexams>
+  </student>
+  <student>
+    <name>Ivan</name>
+    <sex>Male</sex>
+    <birthdate>05.12.1991</birthdate>
+    <phone>0898123478</phone>
+    <email>againno@email.com</email>
+    <course>2</course>
+    <specialty>Coding</specialty>
+    <facultynumber>123457</facultynumber>
+    <takenexams>
+      <exam>
+        <name>Calculus</name>
+        <tutor>Peshev</tutor>
+        <score>31</score>
+        <date>06.06.2016</date>
+        <endorsement>true</endorsement>
+      </exam>
+    </takenexams>
+  </student>
+</students>

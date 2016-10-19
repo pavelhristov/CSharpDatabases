@@ -1,0 +1,7 @@
+﻿1. XML = eXtensible Markup Language. Text based language, uses tags and attributes. It is universal language (notation) for describing structured data using text with tags. The data is stored together with the meta-data about it. Used to describe other languages (formats) for data representation.
+2. students.xml
+3. Namespaces allow using different tags with the same name.
+4. Reading...
+5. () => students.xml
+6. students.xsd
+7.
