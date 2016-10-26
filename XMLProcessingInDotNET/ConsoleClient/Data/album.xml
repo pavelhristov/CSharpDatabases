@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<albums>
+	<album author="Black Sabbath">
+		<name>Paranoid</name>
+	</album>
+	<album author="Iron Maiden">
+		<name>The Number of the Beast</name>
+	</album>
+	<album author="Metallica">
+		<name>...And Justice for All</name>
+	</album>
+	<album author="Metallica">
+		<name>Master of Puppets</name>
+	</album>
+</albums>

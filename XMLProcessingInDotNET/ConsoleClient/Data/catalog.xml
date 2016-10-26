@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<catalog>
+  <album>
+    <name>Master of Puppets</name>
+    <artist>Metallica</artist>
+    <year>1986</year>
+    <producer>Flemming Rasmussen</producer>
+    <price>10.99</price>
+    <songs>
+      <song>
+        <title>Battery</title>
+        <duration>5:12</duration>
+      </song>
+      <song>
+        <title>Master of Puppets</title>
+        <duration>8:36</duration>
+      </song>
+      <song>
+        <title>The Thing That Should Not Be</title>
+        <duration>6:37</duration>
+      </song>
+      <song>
+        <title>Welcome Home (Sanitarium)</title>
+        <duration>6:27</duration>
+      </song>
+      <song>
+        <title>Disposable Heroes</title>
+        <duration>8:17</duration>
+      </song>
+      <song>
+        <title>Leper Messiah</title>
+        <duration>5:40</duration>
+      </song>
+      <song>
+        <title>Orion</title>
+        <duration>8:28</duration>
+      </song>
+      <song>
+        <title>Damage, Inc.</title>
+        <duration>5:29</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>The Number of the Beast</name>
+    <artist>Iron Maiden</artist>
+    <year>1982</year>
+    <producer>Martin Birch</producer>
+    <price>14.50</price>
+    <songs>
+      <song>
+        <title>Invaders</title>
+        <duration>3:20</duration>
+      </song>
+      <song>
+        <title>Children of the Damned</title>
+        <duration>4:34</duration>
+      </song>
+      <song>
+        <title>The Prisoner</title>
+        <duration>5:34</duration>
+      </song>
+      <song>
+        <title>22 Acacia Avenue</title>
+        <duration>6:34</duration>
+      </song>
+      <song>
+        <title>The Number of the Beast</title>
+        <duration>4:25</duration>
+      </song>
+      <song>
+        <title>Run to the Hills</title>
+        <duration>3:50</duration>
+      </song>
+      <song>
+        <title>Gangland</title>
+        <duration>3:46</duration>
+      </song>
+      <song>
+        <title>Hallowed Be Thy Name</title>
+        <duration>7:08</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Paranoid</name>
+    <artist>Black Sabbath</artist>
+    <year>1970</year>
+    <producer>Rodger Bain</producer>
+    <price>14.99</price>
+    <songs>
+      <song>
+        <title>War Pigs</title>
+        <duration>7:57</duration>
+      </song>
+      <song>
+        <title>Paranoid</title>
+        <duration>2:48</duration>
+      </song>
+      <song>
+        <title>Planet Caravan</title>
+        <duration>4:32</duration>
+      </song>
+      <song>
+        <title>Iron Man</title>
+        <duration>5:56</duration>
+      </song>
+      <song>
+        <title>Electric Funeral</title>
+        <duration>4:53</duration>
+      </song>
+      <song>
+        <title>Hand of Doom</title>
+        <duration>7:08</duration>
+      </song>
+      <song>
+        <title>Rat Salad</title>
+        <duration>2:30</duration>
+      </song>
+      <song>
+        <title>Fairies Wear Boots</title>
+        <duration>6:15</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>...And Justice for All</name>
+    <artist>Metallica</artist>
+    <year>1988</year>
+    <producer>Flemming Rasmussen</producer>
+    <price>25.00</price>
+    <songs>
+      <song>
+        <title>Blackened</title>
+        <duration>6:40</duration>
+      </song>
+      <song>
+        <title>...And Justice for All</title>
+        <duration>9:44</duration>
+      </song>
+      <song>
+        <title>Eye of the Beholder</title>
+        <duration>6:25</duration>
+      </song>
+      <song>
+        <title>One</title>
+        <duration>7:24</duration>
+      </song>
+      <song>
+        <title>The Shortest Straw</title>
+        <duration>6:35</duration>
+      </song>
+      <song>
+        <title>Harvester of Sorrow</title>
+        <duration>5:42</duration>
+      </song>
+      <song>
+        <title>The Frayed End of Sanity</title>
+        <duration>7:40</duration>
+      </song>
+      <song>
+        <title>To Live is to Die</title>
+        <duration>9:48</duration>
+      </song>
+      <song>
+        <title>Dyers Eve</title>
+        <duration>5:12</duration>
+      </song>
+    </songs>
+  </album>
+</catalog>
